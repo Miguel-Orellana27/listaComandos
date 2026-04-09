@@ -1,1 +1,2 @@
 git clone: copia y clona un repositorio a tu PC.
+git commit: guarda los cambios preparados.
