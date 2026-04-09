@@ -1,2 +1,5 @@
 git clone: copia y clona un repositorio a tu PC.
 git commit: guarda los cambios preparados.
+git add : guarda los que se han hecho.
+git status: revisa si hay algun cambio en el estado.
+git push : sube los cambios al repositorio remoto.
